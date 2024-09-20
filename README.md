@@ -2,12 +2,10 @@
 
 <span><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/></span>
 
-Este proyecto es una versión avanzada del juego de **Tic Tac Toe** en Python. A diferencia de la primera versión, donde la computadora elegía movimientos de manera aleatoria, aquí se implementa el algoritmo **Minimax**, que le permite a la computadora tomar decisiones óptimas en cada turno, haciéndola prácticamente imbatible.
-
-[Tic Tac Toe](https://github.com/VintaBytes/tic-tac-toe-V1/blob/main/README.md)
+Este proyecto es una versión avanzada del juego de **[Tic Tac Toe](https://github.com/VintaBytes/tic-tac-toe-V1/blob/main/README.md)** en Python. A diferencia de la primera versión, donde la computadora elegía movimientos de manera aleatoria, aquí se implementa el algoritmo **Minimax**, que le permite a la computadora tomar decisiones óptimas en cada turno, haciéndola prácticamente imbatible.
 
 
-<span><img src="https://github.com/VintaBytes/tic-tac-toe-V1/blob/main/tictactoe1.png?raw=true"/></span>
+<span><img src="https://github.com/VintaBytes/tic-tac-toe-V2/blob/main/tictactoe2.png?raw=true"/></span>
 
 ## Descripción del Código
 
