@@ -13,7 +13,7 @@ El código sigue una estructura modular, con varias funciones que permiten gesti
 
 ### Función: `mostrar_tablero(tablero)`
 
-Esta función imprime el tablero actual del juego en la terminal, utilizando la biblioteca **Colorama** para colorear las celdas. Las **X** se muestran en rojo, las **O** en verde, y las líneas divisorias del tablero se muestran en ámbar (color amarillo). Esto facilita que el usuario vea de manera clara y visualmente atractiva el estado del juego.
+Esta función imprime el tablero actual del juego en la terminal, utilizando la biblioteca **Colorama** para colorear las celdas. Las **X** se muestran en rojo, las **O** en verde, y las líneas divisorias del tablero se muestran en ámbar (color amarillo). Esto facilita que el usuario vea de manera clara y atractiva el estado del juego.
 
 ### Función: `mostrar_celda(celda)`
 
